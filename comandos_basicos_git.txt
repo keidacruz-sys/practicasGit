@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre:
-Matrícula:
+Nombre: Keida Fernanda Cruz Buatista
+Matrícula:2223068739
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
